@@ -1,0 +1,6 @@
+{
+  "name": "Binance 5M Candle & Volatility Spike Alert",
+  "description": "Real-time price tracking system monitoring all available coins on Binance and Binance Alpha, identifying upward trends on 5-minute candlestick charts with push notifications and volatility alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
